@@ -18,6 +18,8 @@
   "homepage": "https://github.com/jurecki/express#readme",
   "dependencies": {
     "express": "4.17.1",
-    "express-handlebars": "3.1.0"
+    "express-handlebars": "3.1.0",
+    "formidable": "^1.2.2",
+    "multer": "^1.4.2"
   }
 }
